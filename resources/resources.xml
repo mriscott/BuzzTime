@@ -1,0 +1,14 @@
+<resources>
+<menu id="BuzzTimeMenu">
+  <menu-item id="m5">5</menu-item>
+  <menu-item id="m10">10</menu-item>
+  <menu-item id="m15">15</menu-item>
+  <menu-item id="m20">20</menu-item>
+  <menu-item id="m30">30</menu-item>
+  <menu-item id="m60">60</menu-item>
+  <menu-item id="Quit">Quit</menu-item>
+</menu>
+<properties>
+    <property id="period" type="number">15</property>
+  </properties>
+</resources>
